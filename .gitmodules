@@ -1,0 +1,15 @@
+[submodule "lib/nlohmann_json"]
+	path = lib/nlohmann_json
+	url = https://github.com/nlohmann/json.git
+
+[submodule "lib/fltk"]
+	path = lib/fltk
+	url = https://github.com/fltk/fltk.git
+
+[submodule "lib/minidocx"]
+	path = lib/minidocx
+	url = https://github.com/FlameTEXT/minidocx.git
+
+[submodule "lib/random_color"]
+	path = lib/random_color
+	url = https://github.com/artureganyan/randomColor-cpp.git
